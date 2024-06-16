@@ -1,0 +1,6 @@
+@ConwaysGameLifeAPI_HostAddress = http://localhost:5050
+
+GET {{ConwaysGameLifeAPI_HostAddress}}/swagger/
+Accept: application/json
+
+###
